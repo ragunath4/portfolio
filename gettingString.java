@@ -3,6 +3,6 @@ public class gettingString{
 
     public static void main(String[]args)
     {
-        System.out.println(Hello World Ragu)
+        System.out.println(Hello World Ragu karthi)
     }
 }
