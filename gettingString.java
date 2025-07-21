@@ -6,3 +6,4 @@ public class gettingString{
         System.out.println(Hello World Ragu kaarthik  uuu)
     }
 }
+kJHF.AWJEFB;AKFJ
