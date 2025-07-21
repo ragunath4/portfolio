@@ -7,3 +7,4 @@ public class gettingString{
     }
 }
 kJHF.AWJEFB;AKFJ
+ASLKGJAS/DLKFNS
